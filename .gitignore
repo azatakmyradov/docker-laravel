@@ -1,0 +1,6 @@
+.docker/mysql/*
+!.docker/mysql/.keep
+.docker/redis/*
+!.docker/redis/.keep
+.docker/shm/*
+!.docker/shm/.keep
